@@ -1,0 +1,4 @@
+name: KineticAbilities
+version: '${project.version}'
+main: org.brent.kineticabilities.KineticAbilities
+api-version: '1.21'
